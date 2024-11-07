@@ -1,0 +1,49 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.ini
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+*.egg-info/
+.eggs/
+
+# Virtual Environment files
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS files
+*.DS_Store
+
+# Environment variables
+.env
+.env.*
